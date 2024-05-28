@@ -6,9 +6,8 @@
 
 ![DOM Manipulation](https://img.shields.io/badge/DOM-Manipulation-green)
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/dom-manipulation-projects)
 ![GitHub stars](https://img.shields.io/github/stars/yourusername/dom-manipulation-projects?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/dom-manipulation-projects?style=social)
+
 
 This repository is created for JavaScript enthusiasts who are eager to master DOM (Document Object Model) manipulation through practical projects. If you're a beginner developer looking to hone your skills, you'll find something valuable here!
 
